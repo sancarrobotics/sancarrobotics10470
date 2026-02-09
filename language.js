@@ -152,6 +152,9 @@ const translations = {
         news_2_title: "Yeni Sponsorlarımız",
         news_2_desc: "Tekafos, Zyrone Dynamics ve Medaş İnşaat ailemize katıldı.",
         news_btn_read: "Devamını Oku",
+        news_art_title: "Sanal Sergi: Atıktan Sanata",
+        news_art_desc: "Teknoloji ve sanatı birleştirdik! Geri dönüşüm malzemeleriyle tasarladığımız eserlerin yer aldığı dijital sergimizi hemen ziyaret edin.",
+        btn_visit_exhibition: "SERGİYİ GEZ",
 
         // --- SPONSOR (GÜNCELLENDİ) ---
         sponsor_page_title: "SPONSORLUK",
@@ -372,6 +375,9 @@ const translations = {
         news_2_title: "Our New Sponsors",
         news_2_desc: "Tekafos, Zyrone Dynamics, and Medaş İnşaat have joined our family.",
         news_btn_read: "Read More",
+        news_art_title: "Virtual Exhibition: Waste to Art",
+        news_art_desc: "Combining technology and art! Visit our digital exhibition featuring works created from recycled materials.",
+        btn_visit_exhibition: "VISIT EXHIBITION",
 
         // --- SPONSOR (GÜNCELLENDİ) ---
         sponsor_page_title: "SPONSORSHIP",
